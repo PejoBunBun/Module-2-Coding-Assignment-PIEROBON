@@ -7,9 +7,10 @@
 
 /*Background Stuff*/
 body {
-  background-image: url("FoodBackground.png");
+  background-image: url("FoodBackground.png") ;
   background-repeat:  no-repeat;
   background-size: cover;
+  background-position: 50% 50%;
 }
 
 
